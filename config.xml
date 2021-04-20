@@ -1,1 +1,7 @@
-<PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.5.0" />
+content=<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ItemGroup>
+      <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.5.0" />
+    </ItemGroup>
+  </PropertyGroup>
+</Project>
